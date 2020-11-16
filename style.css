@@ -35,7 +35,7 @@ header a {
   font-size: 11px;
 }
 header h1 {
-  float: none;
+  float: left;
   margin: 0;
 }
 header a {
